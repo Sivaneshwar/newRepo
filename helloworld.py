@@ -1,2 +1,2 @@
 print('Hello World')
-print('This is CoooooooLgit checkout -b second-branch')
+print('This is CoooooooL')
